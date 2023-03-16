@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Marley Spoon">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3659871624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 3160863490" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType Address2Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 736308216" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType AddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 1245862610" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType AmountLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 1646552304" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applied Filters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType AppliedFiltersLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 552261855" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType CityLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 1721277456" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType DocumentNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 2636616999" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType DocumentTypeLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 3367215521" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType EntryNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 3539979298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType ExternalDocNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 1981706351" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType NameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 1314000525" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType NoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 2816184537" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType PostCodeLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 4094501430" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Remaining Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType RemainingAmountLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 617781293" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType ReportNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3659871624 - NamedType 2410138484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report MS Customer Report - NamedType TotalLbl</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1217255137 - Field 2673906427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Checked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MS Sales Line Ext. - Field MS Checked - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
